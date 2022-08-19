@@ -1,0 +1,170 @@
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 1A65CF6CF987DB6090198D75779B2D0739D4B584
+          Issuer Key Hash: 2F227AF85E6D948E6A401437C76E6B72E93AC23F
+          Serial Number: 0FA2854BD83BC8EE
+    Request Extensions:
+        OCSP Nonce: 
+            041032BD7B4C0750626EF2D8C7AECA087AC5
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: AE27093AACB8F2D79BCF61FF7B9327B15D495236
+    Produced At: Aug 19 03:59:27 2022 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 1A65CF6CF987DB6090198D75779B2D0739D4B584
+      Issuer Key Hash: 2F227AF85E6D948E6A401437C76E6B72E93AC23F
+      Serial Number: 0FA2854BD83BC8EE
+    Cert Status: good
+    This Update: Aug 19 03:59:27 2022 GMT
+    Next Update: Aug 19 04:09:27 2022 GMT
+
+    Response Extensions:
+        OCSP Nonce: 
+            041032BD7B4C0750626EF2D8C7AECA087AC5
+    Signature Algorithm: sha256WithRSAEncryption
+         98:e1:1d:3c:03:d8:cc:dd:b0:7f:6c:86:bc:50:7c:33:d0:c6:
+         f7:89:f8:94:0f:43:ae:f3:aa:26:c3:d8:ce:88:bf:8b:c5:44:
+         8c:2d:9f:8f:92:8e:15:ef:01:54:aa:11:0e:dd:e0:80:6b:32:
+         5d:79:22:ce:28:37:6c:6f:8a:0f:81:08:45:47:28:81:34:ac:
+         6d:48:78:40:d1:e6:a0:b5:3c:29:e5:b3:91:58:d5:e9:90:19:
+         eb:83:a7:33:32:02:a1:87:7d:35:28:b8:3d:76:04:bf:8d:cd:
+         56:7c:b8:8a:1a:58:01:5b:e5:f6:02:6d:52:48:58:be:76:6c:
+         0a:4c:f6:82:f5:39:e3:b3:24:ba:20:b3:ef:21:b5:c1:53:3b:
+         32:6d:b9:53:e9:81:39:05:ff:94:bd:ad:dd:ed:5c:b7:54:0e:
+         44:35:91:c8:ea:67:81:ba:8c:8c:4b:78:6b:ae:9b:81:8e:42:
+         29:95:53:c7:ca:da:f3:0f:4c:df:99:0c:ee:ef:23:19:a1:df:
+         6e:30:ed:6b:aa:8c:32:16:bb:76:b1:a7:a2:77:af:8d:f3:88:
+         43:00:aa:99:af:0a:6b:7d:66:2c:3a:b6:78:2e:a7:aa:c5:b9:
+         33:6a:aa:c5:ef:2f:ac:13:01:18:7c:71:13:a3:fe:0f:03:95:
+         0d:7c:6b:83
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3397523389156192226 (0x2f266d8586bc6fe2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=EC, L=DM QUITO, O=CONSEJO DE LA JUDICATURA, OU=SUBDIRECCION NACIONAL DE SEGURIDAD DE LA INFORMACION DNTICS, CN=ENTIDAD DE CERTIFICACION ICERT-EC
+        Validity
+            Not Before: Jun 26 10:19:03 2021 GMT
+            Not After : Jun 27 10:19:03 2031 GMT
+        Subject: C=EC, L=DM QUITO, O=CONSEJO DE LA JUDICATURA, OU=SUBDIRECCION NACIONAL DE SEGURIDAD DE LA INFORMACION DNTICS, CN=AUTORIDAD DE VALIDACION OCSP ICERT-EC
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d7:04:b5:74:3b:9c:bb:54:1e:a5:fe:08:17:ef:
+                    f2:65:35:df:88:e9:e9:e1:5b:64:48:b0:b4:48:5a:
+                    be:f8:04:d0:19:fe:2f:b1:65:eb:9f:b4:21:dd:7b:
+                    bb:69:f2:46:8b:7d:d4:52:b0:e3:b5:d5:fd:59:c4:
+                    9e:91:3c:31:47:42:2f:f1:c8:69:f4:f5:b9:e9:82:
+                    68:be:24:a4:97:38:5e:b2:bc:7a:0f:1b:09:7c:77:
+                    a8:8e:c3:5a:6d:d1:c3:70:b7:f5:be:ed:aa:d4:7c:
+                    ac:e7:dd:8e:f3:d7:37:a8:cc:17:05:51:25:c0:63:
+                    d5:86:6e:e5:c1:79:dd:db:d7:42:ae:20:ad:16:39:
+                    75:ff:94:62:65:de:3a:43:6c:7b:8f:0d:6b:30:b8:
+                    41:4e:b1:57:3a:73:51:5f:1b:66:dc:c5:ae:99:b5:
+                    c1:3b:5d:1d:9f:d7:51:0b:ad:f0:b3:b6:64:d1:8a:
+                    3d:8a:ed:c6:54:0d:c7:a9:d4:d5:68:f1:b7:a4:52:
+                    85:78:d4:4a:9b:da:d6:a6:c9:f7:5b:9a:41:2c:44:
+                    32:93:d0:d3:79:82:2c:50:b0:0f:2d:69:6c:21:31:
+                    6d:01:9f:a8:cf:d7:a9:37:55:56:66:48:07:40:fd:
+                    6f:85:da:09:ab:e8:d8:fe:a2:d1:b9:46:c9:b2:4c:
+                    a9:f1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:2F:22:7A:F8:5E:6D:94:8E:6A:40:14:37:C7:6E:6B:72:E9:3A:C2:3F
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.43745.1.2.4.3.1.2
+                  CPS: http://www.icert.fje.gob.ec/dpc/declaracion_practicas_certificacion.pdf
+
+            X509v3 Extended Key Usage: critical
+                OCSP Signing
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://www.icert.fje.gob.ec/crl/icert.crl
+
+            X509v3 Subject Key Identifier: 
+                AE:27:09:3A:AC:B8:F2:D7:9B:CF:61:FF:7B:93:27:B1:5D:49:52:36
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation
+    Signature Algorithm: sha256WithRSAEncryption
+         7c:3c:31:bc:bc:61:59:1d:ba:59:fd:2c:95:61:3e:4c:2a:a4:
+         0c:bf:9e:c4:7f:e1:5c:bd:33:c7:e3:fd:5a:58:e9:65:44:02:
+         bd:4a:0d:d4:e8:bb:1a:13:e4:5d:5b:96:a5:6f:fa:f8:85:c7:
+         c2:55:5a:77:e4:d5:16:7e:90:da:a9:d1:75:82:9d:77:58:5e:
+         8f:41:04:3f:91:f0:d7:d6:cd:7b:ed:22:cf:5f:89:5f:55:47:
+         c5:ba:71:86:14:a1:e8:f5:79:31:54:e1:f9:39:dc:cc:4d:3b:
+         ab:be:68:72:af:6d:89:19:e1:cd:97:ac:12:64:b0:a3:2d:a5:
+         77:eb:63:1f:eb:b2:35:92:b2:2b:54:06:df:4f:d7:50:fd:1a:
+         41:15:03:e8:0c:4c:52:96:78:56:c0:41:cb:bc:96:15:85:e0:
+         38:5e:8c:0e:39:9c:5f:05:1f:17:a9:4a:9a:c7:94:03:17:1f:
+         09:3d:ff:04:45:f1:e9:dc:ee:97:9f:ca:4d:08:d9:81:8c:0c:
+         9a:42:99:28:7a:9b:eb:18:92:66:d3:bf:b8:55:e4:32:fa:45:
+         3c:a1:54:a3:90:e6:12:ae:9b:b6:1e:4b:d3:7b:92:1d:5a:82:
+         72:9f:32:b3:23:5a:8d:d2:7a:c7:00:be:06:11:6d:1d:73:df:
+         0d:cc:d6:a3:ba:4f:e4:b9:9e:99:71:f7:e6:db:ee:ba:31:f0:
+         c2:73:2c:cc:06:b6:07:e9:4d:16:6d:3b:bf:b8:8d:0c:79:58:
+         0c:72:60:f2:0b:bd:6d:8d:67:80:61:b3:a9:18:15:dc:04:47:
+         6a:c4:7a:02:0c:d7:49:38:76:f9:b2:0f:bf:c3:42:b0:d2:36:
+         84:1f:d9:62:22:4b:09:cf:e2:6d:86:81:78:28:fd:51:0c:95:
+         cc:78:27:ba:a6:92:69:3c:b4:ac:7a:c0:fe:b4:b0:42:63:ba:
+         b7:81:ed:5a:72:d4:af:bf:8f:fa:1d:ba:15:08:67:07:3e:3f:
+         8d:a9:6c:b4:c9:a2:c2:23:ee:f1:06:be:a6:88:e8:c7:b4:21:
+         89:8b:ce:e1:7e:ba:fa:d7:97:22:0b:78:db:1a:11:26:e5:35:
+         d6:44:3c:49:f2:a6:34:21:aa:16:11:e7:d1:84:56:d6:74:6f:
+         e6:82:83:be:24:b2:37:64:3e:53:bb:53:18:a6:c9:40:05:64:
+         8b:2b:13:69:56:7f:c3:58:02:97:5a:62:fa:2c:30:88:f6:6b:
+         1e:23:a5:24:f4:7a:18:fc:aa:b5:1a:a5:33:77:76:ee:c0:b1:
+         6a:40:fb:53:70:2a:06:3c:cc:ed:d1:d6:94:79:7f:9d:93:3f:
+         98:be:07:3d:a9:12:e2:82
+-----BEGIN CERTIFICATE-----
+MIIGHjCCBAagAwIBAgIILyZthYa8b+IwDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNV
+BAYTAkVDMREwDwYDVQQHDAhETSBRVUlUTzEhMB8GA1UECgwYQ09OU0VKTyBERSBM
+QSBKVURJQ0FUVVJBMUQwQgYDVQQLDDtTVUJESVJFQ0NJT04gTkFDSU9OQUwgREUg
+U0VHVVJJREFEIERFIExBIElORk9STUFDSU9OIEROVElDUzEqMCgGA1UEAwwhRU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIElDRVJULUVDMB4XDTIxMDYyNjEwMTkwM1oX
+DTMxMDYyNzEwMTkwM1owgbkxCzAJBgNVBAYTAkVDMREwDwYDVQQHDAhETSBRVUlU
+TzEhMB8GA1UECgwYQ09OU0VKTyBERSBMQSBKVURJQ0FUVVJBMUQwQgYDVQQLDDtT
+VUJESVJFQ0NJT04gTkFDSU9OQUwgREUgU0VHVVJJREFEIERFIExBIElORk9STUFD
+SU9OIEROVElDUzEuMCwGA1UEAwwlQVVUT1JJREFEIERFIFZBTElEQUNJT04gT0NT
+UCBJQ0VSVC1FQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANcEtXQ7
+nLtUHqX+CBfv8mU134jp6eFbZEiwtEhavvgE0Bn+L7Fl65+0Id17u2nyRot91FKw
+47XV/VnEnpE8MUdCL/HIafT1uemCaL4kpJc4XrK8eg8bCXx3qI7DWm3Rw3C39b7t
+qtR8rOfdjvPXN6jMFwVRJcBj1YZu5cF53dvXQq4grRY5df+UYmXeOkNse48NazC4
+QU6xVzpzUV8bZtzFrpm1wTtdHZ/XUQut8LO2ZNGKPYrtxlQNx6nU1Wjxt6RShXjU
+Spva1qbJ91uaQSxEMpPQ03mCLFCwDy1pbCExbQGfqM/XqTdVVmZIB0D9b4XaCavo
+2P6i0blGybJMqfECAwEAAaOCASowggEmMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgw
+FoAULyJ6+F5tlI5qQBQ3x25rcuk6wj8wcgYDVR0gBGswaTBnBg4rBgEEAYLVYQEC
+BAMBAjBVMFMGCCsGAQUFBwIBFkdodHRwOi8vd3d3LmljZXJ0LmZqZS5nb2IuZWMv
+ZHBjL2RlY2xhcmFjaW9uX3ByYWN0aWNhc19jZXJ0aWZpY2FjaW9uLnBkZjAWBgNV
+HSUBAf8EDDAKBggrBgEFBQcDCTA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vd3d3
+LmljZXJ0LmZqZS5nb2IuZWMvY3JsL2ljZXJ0LmNybDAdBgNVHQ4EFgQUricJOqy4
+8tebz2H/e5MnsV1JUjYwDgYDVR0PAQH/BAQDAgbAMA0GCSqGSIb3DQEBCwUAA4IC
+AQB8PDG8vGFZHbpZ/SyVYT5MKqQMv57Ef+FcvTPH4/1aWOllRAK9Sg3U6LsaE+RdResponse Verify Failure
+139811838166856:error:27069065:OCSP routines:OCSP_basic_verify:certificate verify error:ocsp_vfy.c:126:Verify error:unable to get local issuer certificate
+
+W5alb/r4hcfCVVp35NUWfpDaqdF1gp13WF6PQQQ/kfDX1s177SLPX4lfVUfFunGG
+FKHo9XkxVOH5OdzMTTurvmhyr22JGeHNl6wSZLCjLaV362Mf67I1krIrVAbfT9dQ
+/RpBFQPoDExSlnhWwEHLvJYVheA4XowOOZxfBR8XqUqax5QDFx8JPf8ERfHp3O6X
+n8pNCNmBjAyaQpkoepvrGJJm07+4VeQy+kU8oVSjkOYSrpu2HkvTe5IdWoJynzKz
+I1qN0nrHAL4GEW0dc98NzNajuk/kuZ6Zcffm2+66MfDCcyzMBrYH6U0WbTu/uI0M
+eVgMcmDyC71tjWeAYbOpGBXcBEdqxHoCDNdJOHb5sg+/w0Kw0jaEH9liIksJz+Jt
+hoF4KP1RDJXMeCe6ppJpPLSsesD+tLBCY7q3ge1actSvv4/6HboVCGcHPj+NqWy0
+yaLCI+7xBr6miOjHtCGJi87hfrr615ciC3jbGhEm5TXWRDxJ8qY0IaoWEefRhFbW
+dG/mgoO+JLI3ZD5Tu1MYpslABWSLKxNpVn/DWAKXWmL6LDCI9mseI6Uk9HoY/Kq1
+GqUzd3buwLFqQPtTcCoGPMzt0daUeX+dkz+Yvgc9qRLigg==
+-----END CERTIFICATE-----
+0Xfa2854bd83bc8ee: good
+	This Update: Aug 19 03:59:27 2022 GMT
+	Next Update: Aug 19 04:09:27 2022 GMT

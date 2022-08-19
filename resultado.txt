@@ -1,0 +1,6 @@
+real    7m59.448s
+user    9m53.675s
+sys     4m45.698s
+
+
+velocidad 1.2 Mb

@@ -1,0 +1,1 @@
+openssl ocsp -issuer casubp_27072019.cer -serial 0X5B61A5C1 -url http://ocsp.eci.bce.ec/ejbca/publicweb/status/ocsp -text
